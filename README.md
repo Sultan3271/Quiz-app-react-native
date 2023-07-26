@@ -40,3 +40,5 @@ If you find any issues or want to contribute to the project, feel free to open a
 
 ## Acknowledgments
 The quiz questions are fetched from the Open Trivia Database API (https://opentdb.com/).
+## install & run on device 
+you can download quiz.apk file for Android and install it on your device to run and check it 
