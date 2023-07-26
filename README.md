@@ -24,6 +24,7 @@ The app consists of the following screens:
 ## Installation
 
 1. Clone the repository to your local machine.
+2. download quiz.apk file provided in repo
 
 ## Libraries Used
 react-native: Used for building native mobile apps using React.
