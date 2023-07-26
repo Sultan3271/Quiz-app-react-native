@@ -11,7 +11,7 @@ This app allows users to take a quiz with multiple-choice questions. It fetches 
 The app consists of the following screens:
 
 1. **Home Screen**: The starting screen with a "Start" button. Pressing the "Start" button will navigate the user to the quiz screen.
-
+![home](Screenshot_20230726-161011.jpg)
 2. **Quiz Screen**: This screen displays the quiz questions and options for each question. Users can select an option for each question and proceed to the next question. The user's score is calculated based on the correct answers.
 
 3. **Result Screen**: After answering all the questions, this screen displays the final score and whether the user passed the quiz or not. If the score is greater than 5, it shows a "Congrats! You passed" message; otherwise, it shows a "You lose, Best of Luck next Time!" message. Users can navigate back to the Home screen from here.
